@@ -1,4 +1,4 @@
-# python-calculator
+# python-utility-calculators
 print('Hesap Makinesi')
 sayı1 = float(input('Birinci sayıyı giriniz:'))
 sayı2 = float(input('İkinci sayıyı giriniz:'))
